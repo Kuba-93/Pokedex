@@ -40,6 +40,7 @@ Nous avons créé un Pokédex avec 807 Pokémon différent et pour chacun d'eux 
 
 ### `Groupe du projet`
 Kuba Stanislawski DAD A 
+
 Daouda Condetto Keita DAD B
 
 ### `Listes des fonctionnalités implémentées`
