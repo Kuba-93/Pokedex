@@ -49,6 +49,4 @@ Daouda Condetto Keita DAD B
 
 ### `Difficultés`
 Quelques petits problèmes avec les versions des mobules importés / le design avec materiel-ui.
-Sinon dans l'ensemble pas de plus gros problème.#� �P�o�k�e�d�e�x�-�e�s�t�i�a�m�
-�
-�
+Sinon dans l'ensemble pas de plus gros problème.
